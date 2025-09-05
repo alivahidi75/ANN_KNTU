@@ -1,1 +1,1 @@
-This repository contains the assignments, mini-projects, and the final project for the Neural Networks course, instructed by Dr. M. Teshnelab at the Faculty of Electrical and Computer Engineering, K. N. Toosi University of Technology, Tehran -IRAN.
+This repository contains the assignments, projects, and the final project for the Neural Networks course, instructed by Dr. M. Teshnelab at the Faculty of Electrical and Computer Engineering, K. N. Toosi University of Technology, Tehran -IRAN.
